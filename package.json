@@ -1,0 +1,27 @@
+{
+  "name": "memotestreloaded",
+  "version": "1.0.0",
+  "description": "best game ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rulo180/MemotestReloaded.git"
+  },
+  "author": "Rulo y Bou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rulo180/MemotestReloaded/issues"
+  },
+  "homepage": "https://github.com/Rulo180/MemotestReloaded#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.11.0",
+    "webpack-cli": "^3.0.2"
+  }
+}
